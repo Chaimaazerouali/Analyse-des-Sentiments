@@ -1,13 +1,14 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Analyse des Sentiments
+
 ```
-⬆️ (Replace above with your app's name)
+Sentilytics
 ```
 
-Description of the app ...
+mon app est pouranalyser de sentiments d'un texte
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https:// Sentilytics.streamlit.app/)
 
 ## GitHub Codespaces
 
